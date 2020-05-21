@@ -896,7 +896,7 @@ document_id	line	token_index	token	token_pos	tag
 121381	13	12	methodology	NOUN	O
 121231	0	1	•	PUNCT	O
 121231	0	2	A	DET	O
-121231	0	4	degree	NOUN	O
+121231	0	4	degree	NOUN	U-exp
 121231	0	5	in	ADP	O
 121231	0	7	Computer	PROPN	B-skill
 121231	0	8	Science	PROPN	L-skill
@@ -3350,7 +3350,7 @@ document_id	line	token_index	token	token_pos	tag
 121436	9	11	rigid	ADJ	O
 121436	9	12	.	PUNCT	O
 121436	10	1	Strong	ADJ	O
-121436	10	2	attention	NOUN	U
+121436	10	2	attention	NOUN	O
 121436	10	3	-	PUNCT	O
 121436	10	4	to	ADP	O
 121436	10	5	-	PUNCT	O
